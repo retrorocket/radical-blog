@@ -1,3 +1,5 @@
 # Radical No.11 #2
 
-Astro + Fuwariで構築した趣味のブログ
+[Astro](https://astro.build/) + [Fuwari](https://github.com/saicaca/fuwari)で構築した趣味のブログ
+
+<https://blog.retrorocket.biz>
